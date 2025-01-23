@@ -1,3 +1,3 @@
 # custom-pkg
 
-This is Custom Package Readme
+This is a Custom Package Readme
